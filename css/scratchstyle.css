@@ -1,0 +1,84 @@
+.toresume {
+    float: right;
+    margin-top: 20px;
+    margin-right: 35px;
+}
+
+.toim {
+    float: left;
+    margin-top: 20px;
+    margin-left: 35px;
+}
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 85px;
+    /*outline: white solid 2px;*/
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
+
+.videospace{
+    top: 110px;
+    width: auto;
+    height: auto;
+    margin-top: 10px;
+    /*outline: orange solid 1px;*/
+}
+
+.video{
+    width: 600px;
+    height: 338px;
+    margin-left: auto;
+    margin-right: auto;
+    /*outline: blue solid 1px;*/
+}
+
+.flex-container {
+    display: flex;
+    margin-top: 5px;
+}
+
+.flex {
+    flex: 1;
+    /*border: yellow solid 1px;*/
+}
+
+.flex-courses {
+    flex: 1;
+    /*border: rgb(0, 255, 42) solid 1px;*/
+}
+
+.todo {
+    padding-left: 25px;
+    float: left;
+}
+
+.courses {
+    padding-right: 20px;
+    float: right;
+}
+
+.swim{
+    width: auto;
+    height: 500px;
+    margin-top: 25px;
+}
+
+.bike{
+    width: auto;
+    height: 500px;
+    margin-top: 25px;
+    padding-left: 5px;
+}
+
+.emblist{margin-left: 30px;}
+
+.graph{width: 100%;}
